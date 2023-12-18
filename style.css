@@ -1,0 +1,50 @@
+/* Pizza Page*/
+body{
+    background-color: #33A2FF;
+}
+
+p {
+    font-family: monospace;
+    text-align: center;
+    color: white
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightgoldenrodyellow;
+    font-style: italic;
+    text-align: right;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 50px;
+    color: white;
+    font-style: normal;
+}   
+
+h2 {
+    color: yellow;
+}
+
+li {
+    font-family: monospace;
+    color: white;
+}
+
+.pizza{
+    width: 50%;
+}
+
+a{
+    color: white;
+}
+
+/* Cake Page*/
+.cakeP {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
